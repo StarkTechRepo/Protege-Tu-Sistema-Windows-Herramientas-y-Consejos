@@ -49,22 +49,25 @@ para que usted navegue sin preocupaciones.
 8. **Navegadores de Confianza**
    - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
 
+9. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
+   - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro: `reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f`. Al hacerlo, mejoras la seguridad de tu sistema y decides cómo se comportará el UAC ante las solicitudes de permisos de administrador. Con esta configuración, el sistema te pedirá la contraseña del equipo al realizar acciones que requieran permisos de administrador, lo que proporciona una capa adicional de seguridad.
+
 ## Consejos Adicionales:
 
-9. **Respalda tus Datos Regularmente**
+10. **Respalda tus Datos Regularmente**
    - **Descripción:** Realiza copias de seguridad periódicas de tus datos importantes para protegerlos contra pérdidas accidentales.
 
-10. **Usa Contraseñas Seguras**
+11. **Usa Contraseñas Seguras**
     - **Descripción:** Utiliza contraseñas fuertes y únicas para tus cuentas en línea y cambia las contraseñas periódicamente.
 
-11. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
+12. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
     - **Descripción:** Evita abrir correos electrónicos o hacer clic en enlaces de fuentes no confiables o desconocidas.
 
-12. **Usa Software de Autenticación de Dos Factores (2FA)**
+13. **Usa Software de Autenticación de Dos Factores (2FA)**
     - **Descripción:** Habilita la autenticación de dos factores cuando sea posible para una capa adicional de seguridad.
 
-11. **Verifica Siempre la URL del Sitio Web**
-    - **Descripción:** Antes de ingresar información personal o financiera en un sitio web, verifica siempre la URL para asegurarte de que sea legítimo y seguro. Si no confías en la URL, escribe el nombre de la web en un motor de búsqueda confiable y verifica la confiabilidad del sitio desde los resultados de búsqueda.
+14 **Verifica Siempre la URL del Sitio Web**
+    - **Descripción:** Antes de ingresar información personal o financiera en un sitio web, verifica siempre la URL para asegurarte de que sea legítimo y seguro. Si no confías en la 15, escribe el nombre de la web en un motor de búsqueda confiable y verifica la confiabilidad del sitio desde los resultados de búsqueda.
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
 
