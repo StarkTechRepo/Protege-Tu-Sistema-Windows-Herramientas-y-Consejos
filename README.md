@@ -49,6 +49,7 @@ para que usted navegue sin preocupaciones.
 8. **Navegadores de Confianza**
    - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
 
+## Control de Cuentas de Usuario (UAC):
 9. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
    - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro: `reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f`. Al hacerlo, mejoras la seguridad de tu sistema y decides cómo se comportará el UAC ante las solicitudes de permisos de administrador. Con esta configuración, el sistema te pedirá la contraseña del equipo al realizar acciones que requieran permisos de administrador, lo que proporciona una capa adicional de seguridad.
 
