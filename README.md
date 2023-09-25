@@ -56,6 +56,9 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 
 12. **Usa Software de Autenticación de Dos Factores (2FA)**
     - **Descripción:** Habilita la autenticación de dos factores cuando sea posible para una capa adicional de seguridad.
+    - 
+12. **Verifica Siempre la URL del Sitio Web**
+    - **Descripción:** Antes de ingresar información personal o financiera en un sitio web, verifica siempre la URL para asegurarte de que sea legítimo y seguro.
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
 
