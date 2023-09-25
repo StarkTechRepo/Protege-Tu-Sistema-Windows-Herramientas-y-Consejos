@@ -4,24 +4,24 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 
 ## Herramientas de Seguridad:
 
-0. **AdwCleaner **
+1. **AdwCleaner**
    - **Descripción:**  es la herramienta de limpieza de adware más famosa del mercado detecta y elimina programas no deseados y junkware
 para que usted navegue sin preocupaciones.
    - **Enlace:** [Descargar AdwCleaner](https://es.malwarebytes.com/adwcleaner/)
 
-1. **Malwarebytes**
+2. **Malwarebytes**
    - **Descripción:** Malwarebytes es una herramienta antivirus confiable que escanea y protege tu sistema contra malware, virus y otras amenazas en tiempo real.
    - **Enlace:** [Descargar Malwarebytes](https://es.malwarebytes.com/)
 
-2. **Kaspersky**
+3. **Kaspersky**
    - **Descripción:** Kaspersky es una suite de seguridad integral que ofrece protección antivirus, firewall, protección de identidad y más.
    - **Enlace:** [Descargar Kaspersky](https://latam.kaspersky.com/downloads)
 
-3. **uBlock Origin**
+4. **uBlock Origin**
    - **Descripción:** uBlock Origin es una potente extensión de navegador que bloquea anuncios no deseados y protege contra sitios web maliciosos.
    - **Enlace:** [Instalar uBlock Origin](https://ublockorigin.com/es)
 
-4. **VPN**
+5. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
 
