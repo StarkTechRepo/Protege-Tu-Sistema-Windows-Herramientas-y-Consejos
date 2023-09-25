@@ -38,18 +38,23 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
    - **Descripción:** Mantén siempre actualizado tu sistema Windows a la versión más reciente y estable para obtener las últimas correcciones de seguridad.
    - **Consejo:** Habilita las actualizaciones automáticas para asegurarte de que tu sistema esté siempre protegido.
 
+## Navegadores Seguros:
+
+8. **Navegadores de Confianza**
+   - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
+
 ## Consejos Adicionales:
 
-8. **Respalda tus Datos Regularmente**
+9. **Respalda tus Datos Regularmente**
    - **Descripción:** Realiza copias de seguridad periódicas de tus datos importantes para protegerlos contra pérdidas accidentales.
 
-9. **Usa Contraseñas Seguras**
-   - **Descripción:** Utiliza contraseñas fuertes y únicas para tus cuentas en línea y cambia las contraseñas periódicamente.
+10. **Usa Contraseñas Seguras**
+    - **Descripción:** Utiliza contraseñas fuertes y únicas para tus cuentas en línea y cambia las contraseñas periódicamente.
 
-10. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
+11. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
     - **Descripción:** Evita abrir correos electrónicos o hacer clic en enlaces de fuentes no confiables o desconocidas.
 
-11. **Usa Software de Autenticación de Dos Factores (2FA)**
+12. **Usa Software de Autenticación de Dos Factores (2FA)**
     - **Descripción:** Habilita la autenticación de dos factores cuando sea posible para una capa adicional de seguridad.
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
