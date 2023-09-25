@@ -25,7 +25,7 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 5. **Windows Defender**
    - **Descripción:** Asegúrate de que Windows Defender esté activado y actualizado regularmente para una protección antivirus básica pero efectiva.
    - **Consejo:** Configura Windows Defender para realizar análisis programados y mantener tu sistema protegido.
-   - **nota:** Si tienes un PC menos potente y deseas reducir el consumo de recursos del Defender, utiliza el siguiente comando PowerShell para ajustar la carga promedio de la CPU: `powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50`. Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
+   - **Importante:** Si tienes un PC menos potente y deseas reducir el consumo de recursos del Defender, utiliza el siguiente comando PowerShell para ajustar la carga promedio de la CPU: `powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50`. Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
 
 ## Configuración del Firewall de Windows:
 
