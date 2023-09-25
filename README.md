@@ -4,6 +4,11 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 
 ## Herramientas de Seguridad:
 
+0. **AdwCleaner **
+   - **Descripción:**  es la herramienta de limpieza de adware más famosa del mercado detecta y elimina programas no deseados y junkware
+para que usted navegue sin preocupaciones.
+   - **Enlace:** [Descargar AdwCleaner](https://es.malwarebytes.com/adwcleaner/)
+
 1. **Malwarebytes**
    - **Descripción:** Malwarebytes es una herramienta antivirus confiable que escanea y protege tu sistema contra malware, virus y otras amenazas en tiempo real.
    - **Enlace:** [Descargar Malwarebytes](https://es.malwarebytes.com/)
