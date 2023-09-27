@@ -25,12 +25,14 @@ para que usted navegue sin preocupaciones.
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
 
-6. [IObit Uninstaller](https://www.iobit.com/es/advanceduninstaller.php)
+6. **IObit Uninstaller**
     - **Descripción:** Herramienta de desinstalación eficiente y optimización del sistema para Windows.
+    - **Enlace:** [IObit Uninstalle](https://www.iobit.com/es/advanceduninstaller.php)
 
-7. **[LessPass](https://lesspass.com/)**
+7. **Generador de Contraseñas Seguras**
    - **Descripción:** LessPass es un gestor de contraseñas y generador de contraseñas seguras basado en algoritmos que no requiere almacenar contraseñas en línea.
    - **Consejo:** Utiliza LessPass para crear y gestionar contraseñas seguras sin preocuparte por almacenarlas en la nube.
+   - **Enlace:** [LessPass](https://lesspass.com/)
 
 ## Configuración de Windows Defender:
 
