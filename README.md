@@ -71,7 +71,7 @@ para que usted navegue sin preocupaciones.
 14. **Usa Contraseñas Seguras**
     - **Descripción:** Utiliza contraseñas fuertes y únicas para tus cuentas en línea y cambia las contraseñas periódicamente.
 
-15 **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
+15. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
     - **Descripción:** Evita abrir correos electrónicos o hacer clic en enlaces de fuentes no confiables o desconocidas.
 
 16. **Usa Software de Autenticación de Dos Factores (2FA)**
