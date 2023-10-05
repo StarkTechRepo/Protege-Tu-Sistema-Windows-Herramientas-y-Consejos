@@ -58,7 +58,8 @@ para que usted navegue sin preocupaciones.
 11. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
    - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro: `reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f`. Al hacerlo, mejoras la seguridad de tu sistema y decides cómo se comportará el UAC ante las solicitudes de permisos de administrador. Con esta configuración, el sistema te pedirá la contraseña del equipo al realizar acciones que requieran permisos de administrador, lo que proporciona una capa adicional de seguridad.
 
-9. **Privacidad del Navegador: Evita Guardar Contraseñas y Cookies**
+## Privacidad del Navegador:
+12.  **Evita Guardar Contraseñas y Cookies**
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
 
