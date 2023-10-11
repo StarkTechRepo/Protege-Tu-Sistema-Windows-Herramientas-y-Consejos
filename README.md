@@ -85,7 +85,7 @@ para que usted navegue sin preocupaciones.
 
 18. **Microsoft Safety Scanner**
    - **Descripción:** Microsoft Safety Scanner es una herramienta de escaneo diseñada para buscar y eliminar malware de computadoras con Windows. 
-visita [VirusTotal](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) 
+visita [*Microsoft Safety Scanner*](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) 
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
 
