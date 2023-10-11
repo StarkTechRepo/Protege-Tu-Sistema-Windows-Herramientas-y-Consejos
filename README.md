@@ -80,10 +80,10 @@ para que usted navegue sin preocupaciones.
 17. **Verifica Siempre la URL del Sitio Web**
     - **Descripción:** Antes de ingresar información personal o financiera en un sitio web, verifica siempre la URL para asegurarte de que sea legítimo y seguro. Si no confías en la URL, escribe el nombre de la web en un motor de búsqueda confiable y verifica la confiabilidad del sitio desde los resultados de búsqueda.
 
-17. **Verificación de Archivos y URLs con VirusTotal**
+18. **Verificación de Archivos y URLs con VirusTotal**
    - **Descripción:** Si sospechas de algún archivo o URL, puedes utilizar VirusTotal, un servicio en línea gratuito que analiza archivos y enlaces en busca de malware y amenazas. Visita [VirusTotal](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) y carga el archivo o introduce la URL sospechosa para realizar un análisis exhaustivo.
 
-18. **Microsoft Safety Scanner**
+19. **Microsoft Safety Scanner**
    - **Descripción:** Microsoft Safety Scanner es una herramienta de escaneo diseñada para buscar y eliminar malware de computadoras con Windows. 
 visita [*Microsoft Safety Scanner*](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) 
 
