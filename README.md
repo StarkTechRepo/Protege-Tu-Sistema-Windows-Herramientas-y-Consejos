@@ -24,6 +24,7 @@ para que usted navegue sin preocupaciones.
 5. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
+   - **Importante:** No se recomienda un proveedor de VPN específico, ya que la elección depende del presupuesto del usuario. Sin embargo, es importante utilizar una VPN de pago para garantizar la confiabilidad y la seguridad. Recuerda que lo gratuito puede salir caro. Además, es esencial que la VPN elegida tenga una estricta política de no registro (no logs) para proteger tu privacidad en línea.
 
 6. **Generador de Contraseñas Seguras**
    - **Descripción:** LessPass es un gestor de contraseñas y generador de contraseñas seguras basado en algoritmos que no requiere almacenar contraseñas en línea.
