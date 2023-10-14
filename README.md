@@ -30,8 +30,9 @@ para que usted navegue sin preocupaciones.
    - **Enlace:** [Descargar Kaspersky](https://latam.kaspersky.com/downloads)
 
 4. **uBlock Origin**
-   - **Descripción:** uBlock Origin es una potente extensión de navegador que bloquea anuncios no deseados y protege contra sitios web maliciosos.
+   - **Descripción:** uBlock Origin es una potente extensión de navegador que bloquea anuncios no deseados y protege contra sitios web maliciosos. Es conocida por su eficiencia en el consumo de recursos, lo que la hace una opción ideal.
    - **Enlace:** [Instalar uBlock Origin](https://ublockorigin.com/es)
+   - Utilizar uBlock Origin u otra extensión de adblock es una excelente manera de hacer que la web sea más limpia y segura. Puedes elegir la que mejor se adapte a tus necesidades.
 
 5. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
