@@ -2,6 +2,18 @@
 
 Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás una serie de herramientas y consejos para mantener tu sistema Windows seguro y protegido en todo momento. A continuación, te proporcionamos una breve descripción de las herramientas y pasos esenciales que puedes seguir para fortalecer la seguridad de tu sistema.
 
+## Índice
+1. [Herramientas de Seguridad](#herramientas-de-seguridad)
+2. [Configuración de Windows Defender](#configuración-de-windows-defender)
+3. [Configuración del Firewall de Windows](#configuración-del-firewall-de-windows)
+4. [Mantén Windows Actualizado](#mantén-windows-actualizado)
+5. [Navegadores Seguros](#navegadores-seguros)
+6. [Control de Cuentas de Usuario (UAC)](#control-de-cuentas-de-usuario-uac)
+7. [Privacidad del Navegador](#privacidad-del-navegador)
+8. [Consejos Adicionales](#consejos-adicionales)
+9. [Licencia](#licencia)
+10. [Nota importante](#nota-importante)
+
 ## Herramientas de Seguridad:
 
 1. **AdwCleaner**
