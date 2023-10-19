@@ -57,60 +57,65 @@ para que usted navegue sin preocupaciones.
 
    - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
 
+8. **Proxy  y VPN**
+   - **Descripción:** Los proxies y las VPN (Redes Privadas Virtuales) son herramientas que pueden mejorar tu privacidad y seguridad en línea. Un proxy actúa como intermediario entre tu dispositivo y la web, mientras que una VPN cifra tu conexión y oculta tu dirección IP.
+   - **Consejo:** Para una privacidad y seguridad óptimas, considera combinar un servicio de proxy con una VPN. Utiliza un proxy para acceder a contenido restringido geográficamente y una VPN para cifrar tu conexión y mantener tu anonimato en línea.
+   - **Importante:** La elección de un servicio de proxy y VPN depende de tus necesidades y preferencias. Asegúrate de seleccionar servicios confiables y seguros. Ten en cuenta que algunos servicios gratuitos pueden no ser seguros. Si la privacidad y la seguridad son tus principales preocupaciones, considera servicios premium con políticas de privacidad sólidas.
+
 ## Configuración de Windows Defender:
 
-8. **Windows Defender**
+9. **Windows Defender**
    - **Descripción:** Asegúrate de que Windows Defender esté activado y actualizado regularmente para una protección antivirus básica pero efectiva.
    - **Consejo:** Configura Windows Defender para realizar análisis programados y mantener tu sistema protegido.
    - **Importante:** Si tienes un PC menos potente y deseas reducir el consumo de recursos del Defender, utiliza el siguiente comando PowerShell para ajustar la carga promedio de la CPU: `powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50`. Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
 
 ## Configuración del Firewall de Windows:
 
-9. **Firewall de Windows**
+10. **Firewall de Windows**
    - **Descripción:** Configura el Firewall de Windows para bloquear conexiones no autorizadas y proteger tu red.
    - **Consejo:** Personaliza las reglas del Firewall según tus necesidades y bloquea aplicaciones sospechosas.
 
 ## Mantén Windows Actualizado:
 
-10. **Actualizaciones de Windows**
+11. **Actualizaciones de Windows**
    - **Descripción:** Mantén siempre actualizado tu sistema Windows a la versión más reciente y estable para obtener las últimas correcciones de seguridad.
    - **Consejo:** Habilita las actualizaciones automáticas para asegurarte de que tu sistema esté siempre protegido.
 
 ## Navegadores Seguros:
 
-11. **Navegadores de Confianza**
+12. **Navegadores de Confianza**
    - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
 
 ## Control de Cuentas de Usuario (UAC):
-12. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
+13. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
    - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro: `reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f`. Al hacerlo, mejoras la seguridad de tu sistema y decides cómo se comportará el UAC ante las solicitudes de permisos de administrador. Con esta configuración, el sistema te pedirá la contraseña del equipo al realizar acciones que requieran permisos de administrador, lo que proporciona una capa adicional de seguridad.
 
 ## Privacidad del Navegador:
-13.  **Evita Guardar Contraseñas y Cookies**
+14.  **Evita Guardar Contraseñas y Cookies**
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
 
 ## Consejos Adicionales:
 
-14. **Respalda tus Datos Regularmente**
+15. **Respalda tus Datos Regularmente**
    - **Descripción:** Realiza copias de seguridad periódicas de tus datos importantes para protegerlos contra pérdidas accidentales.
 
-15. **Usa Contraseñas Seguras**
+16. **Usa Contraseñas Seguras**
     - **Descripción:** Utiliza contraseñas fuertes y únicas para tus cuentas en línea y cambia las contraseñas periódicamente.
 
-16. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
+17. **Desconfía de los Correos Electrónicos y Enlaces No Solicitados**
     - **Descripción:** Evita abrir correos electrónicos o hacer clic en enlaces de fuentes no confiables o desconocidas.
 
-17. **Usa Software de Autenticación de Dos Factores (2FA)**
+18. **Usa Software de Autenticación de Dos Factores (2FA)**
     - **Descripción:** Habilita la autenticación de dos factores cuando sea posible para una capa adicional de seguridad.
 
-18. **Verifica Siempre la URL del Sitio Web**
+19. **Verifica Siempre la URL del Sitio Web**
     - **Descripción:** Antes de ingresar información personal o financiera en un sitio web, verifica siempre la URL para asegurarte de que sea legítimo y seguro. Si no confías en la URL, escribe el nombre de la web en un motor de búsqueda confiable y verifica la confiabilidad del sitio desde los resultados de búsqueda.
 
-19. **Verificación de Archivos y URLs con VirusTotal**
+20. **Verificación de Archivos y URLs con VirusTotal**
    - **Descripción:** Si sospechas de algún archivo o URL, puedes utilizar VirusTotal, un servicio en línea gratuito que analiza archivos y enlaces en busca de malware y amenazas. Visita [VirusTotal](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) y carga el archivo o introduce la URL sospechosa para realizar un análisis exhaustivo.
 
-20. **Microsoft Safety Scanner**
+21. **Microsoft Safety Scanner**
    - **Descripción:** Microsoft Safety Scanner es una herramienta de escaneo diseñada para buscar y eliminar malware de computadoras con Windows. 
 visita [*Microsoft Safety Scanner*](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) 
    - **Importante:** Microsoft Safety Scanner solo analiza cuando se activa manualmente. Safety Scanner caduca 10 días después de su descarga. Para volver a ejecutar un análisis con las últimas definiciones antimalware vuelva a descargarlo.
