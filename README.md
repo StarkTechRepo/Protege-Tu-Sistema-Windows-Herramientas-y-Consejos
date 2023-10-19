@@ -1,5 +1,7 @@
 # Protege Tu Sistema Windows: Herramientas y Consejos
 
+![imagen](foto.png)
+
 Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás una serie de herramientas y consejos para mantener tu sistema Windows seguro y protegido en todo momento. A continuación, te proporcionamos una breve descripción de las herramientas y pasos esenciales que puedes seguir para fortalecer la seguridad de tu sistema.
 
 ## Índice
