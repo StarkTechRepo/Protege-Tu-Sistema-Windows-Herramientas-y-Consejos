@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 > nul
 color 30
-title https://github.com/OtaconEvil
+title https://github.com/StarkTechRepo
 
 echo Ajustando el consumo de Windows Defender...
 powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50
