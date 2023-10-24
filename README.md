@@ -12,9 +12,10 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 5. [Navegadores Seguros](#navegadores-seguros)
 6. [Control de Cuentas de Usuario (UAC)](#control-de-cuentas-de-usuario-uac)
 7. [Privacidad del Navegador](#privacidad-del-navegador)
-8. [Consejos Adicionales](#consejos-adicionales)
-9. [Licencia](#licencia)
-10. [Nota importante](#nota-importante)
+8. [ Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
+9. [Consejos Adicionales](#consejos-adicionales)
+10. [Licencia](#licencia)
+11. [Nota importante](#nota-importante)
 
 ## Herramientas de Seguridad:
 
@@ -96,6 +97,48 @@ para que usted navegue sin preocupaciones.
 14.  **Evita Guardar Contraseñas y Cookies**
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
+
+## Modo Efímero para Navegadores Web
+- El modo efímero en navegadores web te permite abrir pestañas o ventanas de navegación que no almacenan el historial de navegación, las cookies, ni los datos de sesión después de cerrarlas. Esto es útil cuando deseas una sesión temporal sin dejar rastros.
+
+### **chrome**
+**Abre una nueva pestaña en modo efímero**
+`start chrome --incognito`
+
+**obliga a Chrome a usar perfiles efímeros**
+`reg add "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+
+**Abre Chrome en modo efímero**
+`start chrome --incognito --force-ephemeral-profiles`
+
+**Elimina la entrada en el registro de Windows que obliga a Chrome a usar perfiles efímeros**
+`reg delete "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
+
+### **edge**
+**Abre una nueva pestaña en modo efímero**
+`start edge --inprivate`
+
+**obliga a Edge a usar perfiles efímeros**
+`reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+
+**rAbre Edge en modo efímero**
+`start edge --inprivate --force-ephemeral-profiles`
+
+**Elimina la entrada en el registro de Windows que obliga a Edge a usar perfiles efímeros**
+`reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
+
+### **firefox**
+**Abre una nueva pestaña en modo efímero**
+`start firefox --private-window`
+
+**obliga a Firefox a usar perfiles efímeros**
+`reg add "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+
+**Abre Firefox en modo efímero**
+`start firefox --private-window --force-ephemeral-profiles`
+
+**Elimina la entrada en el registro de Windows que obliga a Firefox a usar perfiles efímeros**
+`reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
 
 ## Consejos Adicionales:
 
