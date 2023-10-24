@@ -140,7 +140,7 @@ para que usted navegue sin preocupaciones.
 **Elimina la entrada en el registro de Windows que obliga a Firefox a usar perfiles efímeros**
 `reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
 
-## Consejos Adicionales:
+# Consejos Adicionales:
 
 15. **Respalda tus Datos Regularmente**
    - **Descripción:** Realiza copias de seguridad periódicas de tus datos importantes para protegerlos contra pérdidas accidentales.
@@ -167,8 +167,8 @@ visita [*Microsoft Safety Scanner*](https://learn.microsoft.com/en-us/microsoft-
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
 
-## Licencia
+# Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
-### Nota importante
+# Nota importante
 Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
