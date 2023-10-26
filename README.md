@@ -166,9 +166,9 @@ visita [*Microsoft Safety Scanner*](https://learn.microsoft.com/en-us/microsoft-
    - **Importante:** Microsoft Safety Scanner solo analiza cuando se activa manualmente. Safety Scanner caduca 10 días después de su descarga. Para volver a ejecutar un análisis con las últimas definiciones antimalware vuelva a descargarlo.
 
 Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu sistema Windows y proteger tus datos y privacidad en línea. ¡Mantén tu sistema actualizado, respalda tus datos y sigue buenas prácticas de seguridad para disfrutar de una experiencia segura!
----
+
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
----
+
 # Nota importante
 Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
