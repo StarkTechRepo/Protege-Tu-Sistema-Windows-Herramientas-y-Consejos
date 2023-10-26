@@ -100,11 +100,11 @@ para que usted navegue sin preocupaciones.
 ---
 ## Modo Efímero para Navegadores Web
 - El modo efímero en navegadores web te permite abrir pestañas o ventanas de navegación que no almacenan el historial de navegación, las cookies, ni los datos de sesión después de cerrarlas. Esto es útil cuando deseas una sesión temporal sin dejar rastros.
----
+
 ### **chrome**
 **Abre una nueva pestaña en modo efímero**
 `start chrome --incognito`
----
+
 **obliga a Chrome a usar perfiles efímeros**
 `reg add "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
 
@@ -139,7 +139,7 @@ para que usted navegue sin preocupaciones.
 
 **Elimina la entrada en el registro de Windows que obliga a Firefox a usar perfiles efímeros**
 `reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
----
+
 # Consejos Adicionales:
 
 15. **Respalda tus Datos Regularmente**
