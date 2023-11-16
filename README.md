@@ -205,7 +205,8 @@ Estas herramientas y consejos te ayudarán a fortalecer la seguridad de tu siste
 ### Avast
 - **Tipo:** Gratuito
 - **Funciones:** Protección básica contra malware.
-- **Recomendación:**
+
+### Recomendación:
   - Para Máxima Protección: Kaspersky
   - Para Asequibilidad: Malwarebytes
   - Para Protección Gratuita: Avast
