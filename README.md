@@ -14,8 +14,9 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 7. [Privacidad del Navegador](#privacidad-del-navegador)
 8. [ Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
 9. [Consejos Adicionales](#consejos-adicionales)
-10. [Licencia](#licencia)
-11. [Nota importante](#nota-importante)
+10. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
+11. [Licencia](#licencia)
+12. [Nota importante](#nota-importante)
 
 ---
 
