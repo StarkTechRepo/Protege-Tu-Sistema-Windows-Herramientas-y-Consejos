@@ -109,6 +109,10 @@ para que usted navegue sin preocupaciones.
      netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound
      ```
      ```
+     # Bloquear la conexión saliente de una aplicación específica
+     netsh # advfirewall firewall add rule name="Bloquear Programa" dir=out program="C:\Ruta\al\Programa.exe" action=block
+     ```
+     ```
      # Abrir la ventana de configuración del Firewall de Windows
      control firewall.cpl
      ```
