@@ -99,7 +99,7 @@ para que usted navegue sin preocupaciones.
      netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound
      ```
 
-     En el primer comando, se bloquea el tráfico TCP en el puerto 8080 desde la dirección IP 192.168.1.1. En el segundo comando, se bloquea todo el tráfico entrante desde la misma dirección IP. En el tercer comando, se Bloquear todas las conexiones entrantes.
+   - En el primer comando, se bloquea el tráfico TCP en el puerto 8080 desde la dirección IP 192.168.1.1. En el segundo comando, se bloquea todo el tráfico entrante desde la misma dirección IP. En el tercer comando, se Bloquear todas las conexiones entrantes.
 
    - **Consejo:** Personaliza las reglas del Firewall según tus necesidades y bloquea direcciones IP y puertos específicos para fortalecer la seguridad de tu sistema.
 
