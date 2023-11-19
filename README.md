@@ -70,7 +70,7 @@ para que usted navegue sin preocupaciones.
 
 ---
 
-## Configuración de Windows Defender:
+## Configuración de [Windows Defender](https://github.com/StarkTechRepo/Desinfectar-Windows-de-Virus-como-Profesional#mejores-configuraciones-para-windows-defender):
 
 9. **Windows Defender**
    - **Descripción:** Asegúrate de que Windows Defender esté activado y actualizado regularmente para una protección antivirus básica pero efectiva.
