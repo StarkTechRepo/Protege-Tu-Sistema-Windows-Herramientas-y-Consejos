@@ -83,7 +83,21 @@ para que usted navegue sin preocupaciones.
 
 10. **Firewall de Windows**
    - **Descripción:** Configura el Firewall de Windows para bloquear conexiones no autorizadas y proteger tu red.
-   - **Consejo:** Personaliza las reglas del Firewall según tus necesidades y bloquea aplicaciones sospechosas.
+
+     ```
+     # Bloquear una dirección IP en un puerto específico
+     netsh advfirewall firewall add rule name="Bloquear IP y Puerto" dir=in action=block protocol=TCP localport=8080 remoteip=192.168.1.1
+
+     # Bloquear todo el tráfico entrante desde una dirección IP específica
+     netsh advfirewall firewall add rule name="Bloquear Todo desde IP" dir=in action=block remoteip=192.168.1.1
+
+     # Bloquear todas las conexiones entrantes
+     netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound
+     ```
+
+     En el primer comando, se bloquea el tráfico TCP en el puerto 8080 desde la dirección IP 192.168.1.1. En el segundo comando, se bloquea todo el tráfico entrante desde la misma dirección IP. En el tercer comando, se Bloquear todas las conexiones entrantes.
+
+   - **Consejo:** Personaliza las reglas del Firewall según tus necesidades y bloquea direcciones IP y puertos específicos para fortalecer la seguridad de tu sistema.
 
 ---
 
