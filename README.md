@@ -138,11 +138,11 @@ para que usted navegue sin preocupaciones.
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
 
  ```
-# Configuración del Administrador de Contraseñas¡
+# Configuración del Administrador de Contraseñas
 chrome://password-manager/settings
  ```
  ```
-# Configuración de Cookies¡
+# Configuración de Cookies
 chrome://settings/cookies
  ```
 
