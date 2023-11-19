@@ -97,6 +97,10 @@ para que usted navegue sin preocupaciones.
      netsh advfirewall firewall add rule name="Bloquear Todo desde IP" dir=in action=block remoteip=192.168.1.1
      ```
      ```
+     # Bloquear una conexión específica por puerto
+     netsh advfirewall firewall add rule name="Bloquear Conexion por puerto" dir=in action=block protocol=TCP localport=8080
+     ```
+     ```
      # Bloquear todas las conexiones entrantes
      netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound
      ```
