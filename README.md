@@ -137,12 +137,19 @@ para que usted navegue sin preocupaciones.
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
 
+ ```
+# Configuración del Administrador de Contraseñas¡
+chrome://password-manager/settings
+ ```
+ ```
+# Configuración de Cookies¡
+chrome://settings/cookies
+ ```
+
 ---
 
 ## Modo Efímero para Navegadores Web
 - El modo efímero en navegadores web te permite abrir pestañas o ventanas de navegación que no almacenan el historial de navegación, las cookies, ni los datos de sesión después de cerrarlas. Esto es útil cuando deseas una sesión temporal sin dejar rastros.
-
----
 
 ### **chrome**
 **Abre una nueva pestaña en modo efímero**
