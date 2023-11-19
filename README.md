@@ -113,7 +113,7 @@ para que usted navegue sin preocupaciones.
 
 ---
 
-## Navegadores Seguros: [Navegadores_Recomendados](https://github.com/StarkTechRepo/Navegadores_Recomendados)
+## Navegadores Seguros: [Navegadores Recomendados](https://github.com/StarkTechRepo/Navegadores_Recomendados)
 
 12. **Navegadores de Confianza**
    - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
