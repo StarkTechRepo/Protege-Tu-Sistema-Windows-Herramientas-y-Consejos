@@ -61,14 +61,6 @@ para que usted navegue sin preocupaciones.
      ms-settings:privacy-feedback-telemetryviewergroup
      ms-settings:privacy-location
      ```
-     1. Abre el menú "Configuración" en Windows.
-     2. Navega a "Privacidad".
-     3. Selecciona "Comentarios y diagnóstico" en el panel izquierdo.
-     4. En la sección "Sobre el diagnóstico y datos", selecciona "Básico".
-     5. Cambia la opción "Mejorar la escritura en mi dispositivo" a "Apagado".
-     6. Desactiva la opción "Mejorar el reconocimiento de voz y escritura".
-     7. Cierra la ventana de configuración.
-
    - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
 
 8. **Proxy  y VPN**
