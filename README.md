@@ -77,9 +77,9 @@ para que usted navegue sin preocupaciones.
    - **Consejo:** Configura Windows Defender para realizar análisis programados y mantener tu sistema protegido.
    - **Importante:** Si tienes un PC menos potente y deseas reducir el consumo de recursos del Defender, utiliza el siguiente comando PowerShell para ajustar la carga promedio de la CPU:
 ```
+   # Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
    powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50
 ```
- Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
 
 ---
 
@@ -124,7 +124,7 @@ para que usted navegue sin preocupaciones.
 13. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
    - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro:
    ```
-   -reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f`
+   reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f
    ```
    - Al hacerlo, mejoras la seguridad de tu sistema y decides cómo se comportará el UAC ante las solicitudes de permisos de administrador. Con esta configuración, el sistema te pedirá la contraseña del equipo al realizar acciones que requieran permisos de administrador, lo que proporciona una capa adicional de seguridad.
 
@@ -144,42 +144,66 @@ para que usted navegue sin preocupaciones.
 
 ### **chrome**
 **Abre una nueva pestaña en modo efímero**
-`start chrome --incognito`
+```
+start chrome --incognito
+```
 
 **obliga a Chrome a usar perfiles efímeros**
-`reg add "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+```
+reg add "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0
+```
 
 **Abre Chrome en modo efímero**
-`start chrome --incognito --force-ephemeral-profiles`
+```
+start chrome --incognito --force-ephemeral-profiles
+```
 
 **Elimina la entrada en el registro de Windows que obliga a Chrome a usar perfiles efímeros**
-`reg delete "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
+```
+reg delete "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
+```
 
 ### **edge**
 **Abre una nueva pestaña en modo efímero**
-`start edge --inprivate`
+```
+start edge --inprivate
+```
 
 **obliga a Edge a usar perfiles efímeros**
-`reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+```
+reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0
 
+```
 **rAbre Edge en modo efímero**
-`start edge --inprivate --force-ephemeral-profiles`
+```
+start edge --inprivate --force-ephemeral-profiles
+```
 
 **Elimina la entrada en el registro de Windows que obliga a Edge a usar perfiles efímeros**
-`reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
+```
+reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
+```
 
 ### **firefox**
 **Abre una nueva pestaña en modo efímero**
-`start firefox --private-window`
+```
+start firefox --private-window
+```
 
 **obliga a Firefox a usar perfiles efímeros**
-`reg add "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0`
+```
+reg add "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /d 0
 
+```
 **Abre Firefox en modo efímero**
-`start firefox --private-window --force-ephemeral-profiles`
+```
+start firefox --private-window --force-ephemeral-profiles
+```
 
 **Elimina la entrada en el registro de Windows que obliga a Firefox a usar perfiles efímeros**
-`reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f`
+```
+reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
+```
 
 ---
 
