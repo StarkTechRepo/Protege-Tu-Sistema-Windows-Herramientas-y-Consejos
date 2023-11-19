@@ -4,7 +4,8 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 
 ![imagen](foto.jpg)
 
-## Índice
+# Índice
+
 1. [Herramientas de Seguridad](#herramientas-de-seguridad)
 2. [Configuración de Windows Defender](#configuración-de-windows-defender)
 3. [Configuración del Firewall de Windows](#configuración-del-firewall-de-windows)
@@ -12,7 +13,7 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 5. [Navegadores Seguros](#navegadores-seguros-navegadores-recomendadoss)
 6. [Control de Cuentas de Usuario (UAC)](#control-de-cuentas-de-usuario-uac)
 7. [Privacidad del Navegador](#privacidad-del-navegador)
-8. [ Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
+8. [Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
 9. [Consejos Adicionales](#consejos-adicionales)
 10. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
 11. [Licencia](#licencia)
