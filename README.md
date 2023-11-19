@@ -81,7 +81,10 @@ para que usted navegue sin preocupaciones.
    # Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
    powershell.exe -Command Set-MpPreference -ScanAvgCPULoadFactor 50
 ```
-
+```
+   # Abrir Windows Defender
+   ms-settings:windowsdefender
+```
 ---
 
 ## Configuración del Firewall de Windows:
