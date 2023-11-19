@@ -172,7 +172,7 @@ start chrome --incognito --force-ephemeral-profiles
 reg delete "HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
 ```
 
-### **edge**
+#### **edge**
 **Abre una nueva pestaña en modo efímero**
 ```
 start edge --inprivate
@@ -193,7 +193,7 @@ start edge --inprivate --force-ephemeral-profiles
 reg delete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge\Profile\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
 ```
 
-### **firefox**
+##·# **firefox**
 **Abre una nueva pestaña en modo efímero**
 ```
 start firefox --private-window
