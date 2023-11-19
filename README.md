@@ -105,6 +105,10 @@ para que usted navegue sin preocupaciones.
      # Bloquear todas las conexiones entrantes
      netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound
      ```
+     ```
+     # Abrir la ventana de configuración del Firewall de Windows
+     control firewall.cpl
+     ```
 
    - En el primer comando, se bloquea el tráfico TCP en el puerto 8080 desde la dirección IP 192.168.1.1. En el segundo comando, se bloquea todo el tráfico entrante desde la misma dirección IP. En el tercer comando, se Bloquear todas las conexiones entrantes.
 
