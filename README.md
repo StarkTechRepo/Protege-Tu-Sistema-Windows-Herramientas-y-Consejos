@@ -53,6 +53,14 @@ para que usted navegue sin preocupaciones.
 7. **Desactivar la Telemetría**
    - **Descripción:** La telemetría en Windows recopila datos del sistema para mejorar la experiencia del usuario, pero algunos pueden desear desactivarla por razones de privacidad.
    - **Consejo:** Si valoras tu privacidad, puedes desactivar la telemetría de Windows siguiendo estos pasos:
+
+     ```bash
+     # Desactivar la telemetría utilizando comandos
+     ms-settings:privacy-appdiagnostics
+     ms-settings:privacy-feedback
+     ms-settings:privacy-feedback-telemetryviewergroup
+     ms-settings:privacy-location
+     ```
      1. Abre el menú "Configuración" en Windows.
      2. Navega a "Privacidad".
      3. Selecciona "Comentarios y diagnóstico" en el panel izquierdo.
