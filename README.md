@@ -13,11 +13,12 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 5. [Navegadores Seguros](#navegadores-seguros-navegadores-recomendadoss)
 6. [Control de Cuentas de Usuario (UAC)](#control-de-cuentas-de-usuario-uac)
 7. [Privacidad del Navegador](#privacidad-del-navegador)
-8. [Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
-9. [Consejos Adicionales](#consejos-adicionales)
-10. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
-11. [Licencia](#licencia)
-12. [Nota importante](#nota-importante)
+8. [Desactivar Carga Automática de Imágenes en Gmail]()
+9. [Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
+10. [Consejos Adicionales](#consejos-adicionales)
+11. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
+12. [Licencia](#licencia)
+13. [Nota importante](#nota-importante)
 
 ---
 
@@ -229,6 +230,30 @@ start firefox --private-window --force-ephemeral-profiles
 ```
 reg delete "HKEY_CURRENT_USER\SOFTWARE\Mozilla\Firefox\Profiles\Default" /v ForceEphemeralProfiles /t REG_DWORD /f
 ```
+
+---
+
+## Desactivar Carga Automática de Imágenes en Gmail
+
+Para mejorar la seguridad y prevenir posibles ataques de phishing, es recomendable desactivar la carga automática de imágenes en Gmail. Además, al tener las imágenes activas, el remitente del correo puede detectar si el mensaje ha sido abierto, lo que puede afectar la privacidad del usuario.
+
+**Pasos para Desactivar la Carga Automática de Imágenes en Gmail:**
+
+1. **Acceder a Configuración:**
+   - Abre tu cuenta de Gmail.
+   - Haz clic en el ícono de ajustes (engranaje) en la esquina superior derecha.
+   - Selecciona "Ver todas las configuraciones".
+
+2. **Ir a la Pestaña "General":**
+   - Navega a la pestaña "General" en la parte superior del menú de configuración.
+
+3. **Desactivar Carga Automática de Imágenes:**
+   - Busca la sección "Imágenes" y selecciona "Preguntar antes de mostrar imágenes externas".
+
+4. **Guardar Cambios:**
+   - Desplázate hacia abajo y haz clic en "Guardar cambios" para aplicar la configuración.
+
+Con esta configuración, Gmail te pedirá confirmación antes de cargar imágenes externas en los correos electrónicos, lo que proporciona una capa adicional de seguridad contra posibles intentos de phishing. Además, al desactivar la carga automática, también evitas que el remitente detecte la apertura del mensaje mediante imágenes activas.
 
 ---
 
