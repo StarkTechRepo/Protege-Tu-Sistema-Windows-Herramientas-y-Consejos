@@ -7,50 +7,17 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 # Índice
 
 1. [Herramientas de Seguridad](#herramientas-de-seguridad)
-    1. [AdwCleaner](#adwcleaner)
-    2. [Malwarebytes](#malwarebytes)
-    3. [Kaspersky](#kaspersky)
-    4. [uBlock Origin](#ublock-origin)
-    5. [VPN](#vpn)
-    6. [Generador de Contraseñas Seguras](#generador-de-contraseñas-seguras)
-    7. [Desactivar la Telemetría](#desactivar-la-telemetría)
-    8. [Proxy y VPN](#proxy-y-vpn)
-
 2. [Configuración de Windows Defender](#configuración-de-windows-defender)
-
 3. [Configuración del Firewall de Windows](#configuración-del-firewall-de-windows)
-
 4. [Actualizaciones de Windows](#actualizaciones-de-windows)
-
 5. [Navegadores Seguros](#navegadores-seguros)
-
 6. [Control de Cuentas de Usuario (UAC)](#control-de-cuentas-de-usuario-uac)
-
 7. [Privacidad del Navegador](#privacidad-del-navegador)
-
 8. [Desactivar Carga Automática de Imágenes en Gmail](#desactivar-carga-automática-de-imágenes-en-gmail)
-
 9. [Modo Efímero para Navegadores Web](#modo-efímero-para-navegadores-web)
-
 10. [Consejos Adicionales](#consejos-adicionales)
-    1. [Respalda tus Datos Regularmente](#respalda-tus-datos-regularmente)
-    2. [Usa Contraseñas Seguras](#usa-contraseñas-seguras)
-    3. [Desconfía de los Correos Electrónicos y Enlaces No Solicitados](#desconfía-de-los-correos-electrónicos-y-enlaces-no-solicitados)
-    4. [Usa Software de Autenticación de Dos Factores (2FA)](#usa-software-de-autenticación-de-dos-factores-2fa)
-    5. [Verifica Siempre la URL del Sitio Web](#verifica-siempre-la-url-del-sitio-web)
-    6. [Verificación de Archivos y URLs con VirusTotal](#verificación-de-archivos-y-urls-con-virustotal)
-    7. [Microsoft Safety Scanner](#microsoft-safety-scanner)
-
 11. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
-    1. [Kaspersky](#kaspersky-1)
-    2. [Malwarebytes](#malwarebytes-1)
-    3. [Avast](#avast)
-    4. [Recomendación](#recomendación)
-    5. [Razones por las que Algunos Prefieren Avast sobre Otros](#razones-por-las-que-algunos-prefieren-avast-sobre-otros)
-    6. [Recopilación de Datos por Avast](#recopilación-de-datos-por-avast)
-
 12. [Licencia](#licencia)
-
 13. [Nota importante](#nota-importante)
 
 ---
