@@ -19,6 +19,7 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 11. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
 12. [Licencia](#licencia)
 13. [Nota importante](#nota-importante)
+14. [Herramientas de Seguridad Recomendadas](#Herramientas-de-Seguridad-Recomendadas)
 
 ---
 
@@ -321,6 +322,21 @@ Avast, al igual que muchos programas antivirus, recopila información del usuari
 - **Datos del Dispositivo:** Tipo de dispositivo, sistema operativo y configuración.
 
 Avast afirma anonimizar esta información y no utilizarla para identificación personal. Sin embargo, algunos expertos en privacidad han expresado preocupaciones sobre la cantidad de datos recopilados y su uso.
+
+---
+
+## Herramientas de Seguridad Recomendadas
+
+### 1. Glarysoft Tracks Eraser
+   - **Descripción:** Glarysoft Tracks Eraser es una herramienta diseñada para proteger tu privacidad eliminando rastros de actividades en línea y fuera de línea, como historial de navegación, cookies, caché y más.
+   - **Enlace:** [Descargar Glarysoft Tracks Eraser](https://www.glarysoft.com/tracks-eraser/)
+
+### Extensiones de Navegador:
+   - **uBlock Origin (para Chrome y Firefox):** Bloqueador de anuncios y rastreadores para una experiencia de navegación más segura.
+   - **HTTPS Everywhere (para Chrome y Firefox):** Asegura la navegación en sitios web mediante la conexión segura HTTPS.
+   - **LastPass (para varios navegadores):** Gestor de contraseñas seguro que ayuda a generar y almacenar contraseñas fuertes.
+   - **Disconnect (para Chrome y Firefox):** Protege contra rastreadores en línea y mejora la privacidad.
+   - **Bitdefender TrafficLight (para varios navegadores):** Ofrece protección contra sitios web maliciosos y phishing mientras navegas.
 
 ---
 
