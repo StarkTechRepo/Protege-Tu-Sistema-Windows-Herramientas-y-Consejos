@@ -331,6 +331,11 @@ Avast afirma anonimizar esta información y no utilizarla para identificación p
    - **Descripción:** Glarysoft Tracks Eraser es una herramienta diseñada para proteger tu privacidad eliminando rastros de actividades en línea y fuera de línea, como historial de navegación, cookies, caché y más.
    - **Enlace:** [Descargar Glarysoft Tracks Eraser](https://www.glarysoft.com/tracks-eraser/)
 
+### 2. CleanmgrPlus
+   - **Descripción:** CleanmgrPlus es una herramienta que amplía las funciones del limpiador de disco incorporado de Windows.
+   - **Enlace:** [CleanmgrPlus en GitHub](https://github.com/builtbybel/CleanmgrPlus)
+
+
 ### Extensiones de Navegador:
    - **uBlock Origin (para Chrome y Firefox):** Bloqueador de anuncios y rastreadores para una experiencia de navegación más segura.
    - **HTTPS Everywhere (para Chrome y Firefox):** Asegura la navegación en sitios web mediante la conexión segura HTTPS.
