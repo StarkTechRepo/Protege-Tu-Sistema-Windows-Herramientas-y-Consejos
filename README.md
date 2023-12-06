@@ -43,17 +43,19 @@ para que usted navegue sin preocupaciones.
   
 5. **uBlock Origin**
    - **Descripción:** uBlock Origin es una potente extensión de navegador que bloquea anuncios no deseados y protege contra sitios web maliciosos. Es conocida por su eficiencia en el consumo de recursos, lo que la hace una opción ideal.
+
    - **Enlace:** [Instalar uBlock Origin](https://ublockorigin.com/es)
+
    - Utilizar uBlock Origin u otra extensión de adblock es una excelente manera de hacer que la web sea más limpia y segura. Puedes elegir la que mejor se adapte a tus necesidades.
 
-6. **VPN**
+7. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
 
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
 
    - **Importante:** No se recomienda un proveedor de VPN específico, ya que la elección depende del presupuesto del usuario. Sin embargo, es importante utilizar una VPN de pago para garantizar la confiabilidad y la seguridad. Recuerda que lo gratuito puede salir caro. Además, es esencial que la VPN elegida tenga una estricta política de no registro (no logs) para proteger tu privacidad en línea.
 
-7. **Generador de Contraseñas Seguras**
+8. **Generador de Contraseñas Seguras**
    - **Descripción:** LessPass es un gestor de contraseñas y generador de contraseñas seguras basado en algoritmos que no requiere almacenar contraseñas en línea.
 
    - **Consejo:** Utiliza LessPass para crear y gestionar contraseñas seguras sin preocuparte por almacenarlas en la nube.
