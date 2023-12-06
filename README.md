@@ -28,22 +28,25 @@ Bienvenido al repositorio de "Protege Tu Sistema Windows". Aquí encontrarás un
 1. **AdwCleaner**
    - **Descripción:**  es la herramienta de limpieza de adware más famosa del mercado detecta y elimina programas no deseados y junkware
 para que usted navegue sin preocupaciones.
-   - **Enlace:** [Descargar AdwCleaner](https://es.malwarebytes.com/adwcleaner/)
- 
-2. **Malwarebytes**
-   - **Descripción:** Malwarebytes es una herramienta antivirus confiable que escanea y protege tu sistema contra malware, virus y otras amenazas en tiempo real.
-   - **Enlace:** [Descargar Malwarebytes](https://es.malwarebytes.com/)
 
-3. **Kaspersky**
+    - **Enlace:** [Descargar AdwCleaner](https://es.malwarebytes.com/adwcleaner/)
+ 
+3. **Malwarebytes**
+   - **Descripción:** Malwarebytes es una herramienta antivirus confiable que escanea y protege tu sistema contra malware, virus y otras amenazas en tiempo real.
+
+    - **Enlace:** [Descargar Malwarebytes](https://es.malwarebytes.com/)
+
+4. **Kaspersky**
    - **Descripción:** Kaspersky es una suite de seguridad integral que ofrece protección antivirus, firewall, protección de identidad y más.
-   - **Enlace:** [Descargar Kaspersky](https://latam.kaspersky.com/downloads)
+
+    - **Enlace:** [Descargar Kaspersky](https://latam.kaspersky.com/downloads)
   
-4. **uBlock Origin**
+5. **uBlock Origin**
    - **Descripción:** uBlock Origin es una potente extensión de navegador que bloquea anuncios no deseados y protege contra sitios web maliciosos. Es conocida por su eficiencia en el consumo de recursos, lo que la hace una opción ideal.
    - **Enlace:** [Instalar uBlock Origin](https://ublockorigin.com/es)
    - Utilizar uBlock Origin u otra extensión de adblock es una excelente manera de hacer que la web sea más limpia y segura. Puedes elegir la que mejor se adapte a tus necesidades.
 
-5. **VPN**
+6. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
 
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
@@ -69,7 +72,8 @@ para que usted navegue sin preocupaciones.
      ms-settings:privacy-feedback-telemetryviewergroup
      ms-settings:privacy-location
      ```
-   - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
+
+    - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
 
 11. **Proxy  y VPN**
    - **Descripción:** Los proxies y las VPN (Redes Privadas Virtuales) son herramientas que pueden mejorar tu privacidad y seguridad en línea. Un proxy actúa como intermediario entre tu dispositivo y la web, mientras que una VPN cifra tu conexión y oculta tu dirección IP.
