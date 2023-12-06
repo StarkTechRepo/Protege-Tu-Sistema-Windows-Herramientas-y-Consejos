@@ -45,16 +45,21 @@ para que usted navegue sin preocupaciones.
 
 5. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
+
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
+
    - **Importante:** No se recomienda un proveedor de VPN específico, ya que la elección depende del presupuesto del usuario. Sin embargo, es importante utilizar una VPN de pago para garantizar la confiabilidad y la seguridad. Recuerda que lo gratuito puede salir caro. Además, es esencial que la VPN elegida tenga una estricta política de no registro (no logs) para proteger tu privacidad en línea.
 
-6. **Generador de Contraseñas Seguras**
+7. **Generador de Contraseñas Seguras**
    - **Descripción:** LessPass es un gestor de contraseñas y generador de contraseñas seguras basado en algoritmos que no requiere almacenar contraseñas en línea.
+
    - **Consejo:** Utiliza LessPass para crear y gestionar contraseñas seguras sin preocuparte por almacenarlas en la nube.
+
    - **Enlace:** [LessPass](https://lesspass.com/)
 
-7. **Desactivar la Telemetría**
+9. **Desactivar la Telemetría**
    - **Descripción:** La telemetría en Windows recopila datos del sistema para mejorar la experiencia del usuario, pero algunos pueden desear desactivarla por razones de privacidad.
+
    - **Consejo:** Si valoras tu privacidad, puedes desactivar la telemetría de Windows siguiendo estos pasos:
 
      ```bash
@@ -66,9 +71,11 @@ para que usted navegue sin preocupaciones.
      ```
    - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
 
-8. **Proxy  y VPN**
+11. **Proxy  y VPN**
    - **Descripción:** Los proxies y las VPN (Redes Privadas Virtuales) son herramientas que pueden mejorar tu privacidad y seguridad en línea. Un proxy actúa como intermediario entre tu dispositivo y la web, mientras que una VPN cifra tu conexión y oculta tu dirección IP.
+   
    - **Consejo:** Para una privacidad y seguridad óptimas, considera combinar un servicio de proxy con una VPN. Utiliza un proxy para acceder a contenido restringido geográficamente y una VPN para cifrar tu conexión y mantener tu anonimato en línea.
+  
    - **Importante:** La elección de un servicio de proxy y VPN depende de tus necesidades y preferencias. Asegúrate de seleccionar servicios confiables y seguros. Ten en cuenta que algunos servicios gratuitos pueden no ser seguros. Si la privacidad y la seguridad son tus principales preocupaciones, considera servicios premium con políticas de privacidad sólidas.
 
 ---
@@ -77,7 +84,9 @@ para que usted navegue sin preocupaciones.
 
 9. **Windows Defender**
    - **Descripción:** Asegúrate de que Windows Defender esté activado y actualizado regularmente para una protección antivirus básica pero efectiva.
+
    - **Consejo:** Configura Windows Defender para realizar análisis programados y mantener tu sistema protegido.
+
    - **Importante:** Si tienes un PC menos potente y deseas reducir el consumo de recursos del Defender, utiliza el siguiente comando PowerShell para ajustar la carga promedio de la CPU:
 ```
    # Esto ayudará a equilibrar la protección y el rendimiento en sistemas menos potentes.
@@ -129,6 +138,7 @@ para que usted navegue sin preocupaciones.
 
 11. **Actualizaciones de Windows**
    - **Descripción:** Mantén siempre actualizado tu sistema Windows a la versión más reciente y estable para obtener las últimas correcciones de seguridad.
+   
    - **Consejo:** Habilita las actualizaciones automáticas para asegurarte de que tu sistema esté siempre protegido.
 
 ---
@@ -153,6 +163,7 @@ para que usted navegue sin preocupaciones.
 ## Privacidad del Navegador:
 14.  **Evita Guardar Contraseñas y Cookies**
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
+  
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
 
  ```
