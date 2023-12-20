@@ -48,21 +48,21 @@ para que usted navegue sin preocupaciones.
 
    - Utilizar uBlock Origin u otra extensión de adblock es una excelente manera de hacer que la web sea más limpia y segura. Puedes elegir la que mejor se adapte a tus necesidades.
 
-7. **VPN**
+6. **VPN**
    - **Descripción:** Una VPN (Red Privada Virtual) te proporciona anonimato en línea y seguridad adicional al cifrar tu conexión a Internet.
 
    - **Consejo:** Utiliza una VPN confiable y segura para proteger tus datos en línea.
 
    - **Importante:** No se recomienda un proveedor de VPN específico, ya que la elección depende del presupuesto del usuario. Sin embargo, es importante utilizar una VPN de pago para garantizar la confiabilidad y la seguridad. Recuerda que lo gratuito puede salir caro. Además, es esencial que la VPN elegida tenga una estricta política de no registro (no logs) para proteger tu privacidad en línea.
 
-8. **Generador de Contraseñas Seguras**
+7. **Generador de Contraseñas Seguras**
    - **Descripción:** LessPass es un gestor de contraseñas y generador de contraseñas seguras basado en algoritmos que no requiere almacenar contraseñas en línea.
 
    - **Consejo:** Utiliza LessPass para crear y gestionar contraseñas seguras sin preocuparte por almacenarlas en la nube.
 
    - **Enlace:** [LessPass](https://lesspass.com/)
 
-9. **Desactivar la Telemetría**
+8. **Desactivar la Telemetría**
    - **Descripción:** La telemetría en Windows recopila datos del sistema para mejorar la experiencia del usuario, pero algunos pueden desear desactivarla por razones de privacidad.
 
    - **Consejo:** Si valoras tu privacidad, puedes desactivar la telemetría de Windows siguiendo estos pasos:
@@ -77,7 +77,7 @@ para que usted navegue sin preocupaciones.
 
     - **Recomendación de Aplicación:** Puedes facilitar la desactivación de la telemetría en Windows utilizando la aplicación "O&O ShutUp10". Esta aplicación proporciona una interfaz fácil de usar para ajustar la configuración de privacidad en Windows y desactivar la telemetría de manera efectiva. Puedes descargarla desde [aquí](https://www.oo-software.com/en/shutup10).
 
-11. **Proxy  y VPN**
+9. **Proxy  y VPN**
    - **Descripción:** Los proxies y las VPN (Redes Privadas Virtuales) son herramientas que pueden mejorar tu privacidad y seguridad en línea. Un proxy actúa como intermediario entre tu dispositivo y la web, mientras que una VPN cifra tu conexión y oculta tu dirección IP.
    
    - **Consejo:** Para una privacidad y seguridad óptimas, considera combinar un servicio de proxy con una VPN. Utiliza un proxy para acceder a contenido restringido geográficamente y una VPN para cifrar tu conexión y mantener tu anonimato en línea.
@@ -88,7 +88,7 @@ para que usted navegue sin preocupaciones.
 
 ## Configuración de [Windows Defender](https://github.com/StarkTechRepo/Desinfectar-Windows-de-Virus-como-Profesional#mejores-configuraciones-para-windows-defender):
 
-9. **Windows Defender**
+10. **Windows Defender**
    - **Descripción:** Asegúrate de que Windows Defender esté activado y actualizado regularmente para una protección antivirus básica pero efectiva.
 
    - **Consejo:** Configura Windows Defender para realizar análisis programados y mantener tu sistema protegido.
@@ -106,7 +106,7 @@ para que usted navegue sin preocupaciones.
 
 ## Configuración del Firewall de Windows:
 
-10. **Firewall de Windows**
+11. **Firewall de Windows**
    - **Descripción:** Configura el Firewall de Windows para bloquear conexiones no autorizadas y proteger tu red.
 
      ```
@@ -142,7 +142,7 @@ para que usted navegue sin preocupaciones.
 
 ## Mantén Windows Actualizado: [Actualizar Windows](https://github.com/StarkTechRepo/Actualizar_Windows)
 
-11. **Actualizaciones de Windows**
+12. **Actualizaciones de Windows**
    - **Descripción:** Mantén siempre actualizado tu sistema Windows a la versión más reciente y estable para obtener las últimas correcciones de seguridad.
    
    - **Consejo:** Habilita las actualizaciones automáticas para asegurarte de que tu sistema esté siempre protegido.
@@ -151,13 +151,13 @@ para que usted navegue sin preocupaciones.
 
 ## Navegadores Seguros: [Navegadores Recomendados](https://github.com/StarkTechRepo/Navegadores_Recomendados)
 
-12. **Navegadores de Confianza**
+13. **Navegadores de Confianza**
    - **Descripción:** Utiliza navegadores web confiables y seguros para navegar en línea. Recomendamos [Librewolf](https://librewolf.net/) como una opción segura basada en Firefox y [Brave](https://brave.com/es/) como una alternativa segura basada en Chromium.
 
 ---
 
 ## Control de Cuentas de Usuario (UAC):
-13. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
+14. **Control de Cuentas de Usuario (UAC) en Windows: Personalización de la Solicitud de Contraseña**
    - **Descripción:** El Control de Cuentas de Usuario (UAC) es una característica de seguridad en Windows que ayuda a prevenir cambios no autorizados en el sistema. Puedes personalizar el comportamiento del UAC utilizando el siguiente comando de registro:
    ```
    reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f
@@ -167,7 +167,7 @@ para que usted navegue sin preocupaciones.
 ---
 
 ## Privacidad del Navegador:
-14.  **Evita Guardar Contraseñas y Cookies**
+15.  **Evita Guardar Contraseñas y Cookies**
    - **Descripción:** Protege tu privacidad en línea deshabilitando la función de guardar contraseñas y cookies en tu navegador. Esto evita que los datos sensibles se almacenen en tu dispositivo y reduce los riesgos de seguridad.
   
    - **Consejo:** Configura tu navegador para no guardar automáticamente contraseñas y cookies, y considera el uso de una contraseña maestra o una herramienta de gestión de contraseñas para mayor seguridad.
